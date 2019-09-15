@@ -1,4 +1,5 @@
-package com.laborde.chattycatty.chat;
+package com.laborde.ChattyCatty.chat;
+
 
 import com.google.gson.Gson;
 

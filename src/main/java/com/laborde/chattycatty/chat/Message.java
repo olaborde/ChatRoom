@@ -1,8 +1,7 @@
-package com.laborde.chattycatty.chat;
+package com.laborde.ChattyCatty.chat;
 
 
 import com.alibaba.fastjson.JSON;
-import com.alibaba.fastjson.JSONObject;
 
 /**
  * WebSocket message model

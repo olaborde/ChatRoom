@@ -1,4 +1,4 @@
-package com.laborde.chattycatty.chat;
+package com.laborde.ChattyCatty.chat;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

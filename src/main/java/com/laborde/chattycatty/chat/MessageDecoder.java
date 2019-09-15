@@ -1,12 +1,7 @@
-package com.laborde.chattycatty.chat;
-
+package com.laborde.ChattyCatty.chat;
 
 import com.google.gson.Gson;
 
-import java.io.StringReader;
-import javax.json.Json;
-import javax.json.JsonException;
-import javax.json.JsonObject;
 import javax.websocket.DecodeException;
 import javax.websocket.Decoder;
 import javax.websocket.EndpointConfig;
